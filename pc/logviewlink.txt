@@ -1,0 +1,1 @@
+https://bitbucket.org/mlopatkin/android-log-viewer/downloads/logview-0.20.zip

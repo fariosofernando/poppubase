@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "Poppu base"
+version = "0.5"
+description = "App para armazenamento de informacoes da poppu por parte da staff"
+authors = ["cuppen <https://www.instagram.com/cuppen.mz/>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Kivy = "^2.0.0"
+kivymd = "^0.104.1"
+buildozer = "^1.2.0"
+Cython = "^0.29.22"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
