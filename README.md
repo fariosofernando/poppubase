@@ -1,8 +1,8 @@
 <img height = "100em" src = "https://github.com/farioso-fernando/poppubase/blob/main/icone.png"  alt = "Icone do app" />
-<h1>Poppu Base</h1>
+<h1>Poppu Base Beta</h1>
 
 <h2>Informaçõs</h2>
-<p>Não perca informações com ajuda desta ferramenta. Poppu base</p>
+<p>Nunca perca informações com a ajuda desta ferramenta, e compartilhe em grupo.</p>
 <p>
 versão: 0.5
 </p>
@@ -14,4 +14,10 @@ versão: 0.5
   <li>buildozer: ^1.2.0</li>
  <li>Cython: ^0.29.22</li>
 </ul>
-<p>authors:  <a href = "https://www.instagram.com/cuppen.mz/">cuppen</a></p>
+<div>
+  <ul>
+    authors:
+    <li>  <a href = "https://www.instagram.com/kevenmaidess/">Keven Maidess</a></li>
+    <li>  <a href = "https://www.instagram.com/aurelio.fernando.5268/">Aurélio Fernando</a></li>
+  </ul>
+</div>
