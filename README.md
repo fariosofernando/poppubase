@@ -1,7 +1,7 @@
 <img height = "100em" src = "https://github.com/farioso-fernando/poppubase/blob/main/icone_beta.png"  alt = "Icone do app" />
 <h1>Poppu Base Beta</h1>
 
-<a href = "https://github.com/farioso-fernando/poppubase/blob/main/bin/poppubase-0.5-armeabi-v7a-debug.apk">Baixar App</a>
+<a href = "https://github.com/farioso-fernando/poppubase/raw/main/bin/poppubase-0.5-armeabi-v7a-debug.apk">Baixar App</a>
 
 <h2>Informaçõs</h2>
 <p>Nunca perca informações com a ajuda desta ferramenta, e compartilhe em grupo.</p>
