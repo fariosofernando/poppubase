@@ -1,4 +1,4 @@
-<img height = "100em" src = "https://github.com/farioso-fernando/poppubase/blob/main/icone.png"  alt = "Icone do app" />
+<img height = "100em" src = "https://github.com/farioso-fernando/poppubase/blob/main/icone_beta.png"  alt = "Icone do app" />
 <h1>Poppu Base Beta</h1>
 
 <h2>Informaçõs</h2>
@@ -15,9 +15,9 @@ versão: 0.5
  <li>Cython: ^0.29.22</li>
 </ul>
 <div>
+  <h3>Authors</h3>
   <ul>
-    authors:
-    <li>  <a href = "https://www.instagram.com/kevenmaidess/">Keven Maidess</a></li>
-    <li>  <a href = "https://www.instagram.com/aurelio.fernando.5268/">Aurélio Fernando</a></li>
+    <li>  <a href = "https://www.instagram.com/kevenmaidess/" target = "_blank">Keven Maidess</a></li>
+    <li>  <a href = "https://www.instagram.com/aurelio.fernando.5268/" target = "_blank">Aurélio Fernando</a></li>
   </ul>
 </div>
